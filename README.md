@@ -1,3 +1,3 @@
 # atividadePam2_1
 
-# transformando 10 exercícios de TPA em Javascript
+# Transformando 10 exercícios de TPA em Javascript
